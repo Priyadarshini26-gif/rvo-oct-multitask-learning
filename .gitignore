@@ -1,0 +1,13 @@
+RVO-Lesion/
+.venv/
+__pycache__/
+checkpoints/
+processed/
+results/
+best_anatomy_model.pth
+best_burden_model.pth
+best_hf_localizer.pth
+best_multitask_model.pth
+best_pathology_model.pth
+best_unet_scratch.pth
+best_vgg16_unet.pth
